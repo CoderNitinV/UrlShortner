@@ -1,6 +1,6 @@
 ## This Project is made by Nitin Varshney 
 
-# Frontend Mentor - Shortly URL shortening API Challenge solution
+ Shortly URL shortening API Challenge solution
 
 ## Overview
 
